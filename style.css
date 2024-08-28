@@ -1,6 +1,6 @@
 body {
     background-color: #afafaf;
-    background-image: image-set("./assets/images/grey.jpg");
+    background-image: image-set("./assets/images/grey.png");
     background-size: cover;
 }
 
