@@ -1,0 +1,39 @@
+body {
+    background-color: #afafaf;
+    background-image: image-set("./assets/images/grey.jpg");
+    background-size: cover;
+}
+
+#header1{
+    text-align: center;
+    color:#e1e6e2;
+}
+
+#pic {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color:#e1e6e2;
+}
+
+h2 {
+    color:#e1e6e2;
+}
+
+li {
+    color:#e1e6e2;
+}
+
+p {
+    color:#e1e6e2;
+}
+
+a:active {
+    color: rgb(80, 207, 80);
+  }
+  
+  a:visited {
+    color: rgb(11, 114, 11);
+  }
