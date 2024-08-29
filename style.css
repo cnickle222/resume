@@ -2,6 +2,7 @@ body {
     background-color: #afafaf;
     background-image: image-set("./assets/images/grey.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
 
     font-size: 20px;
 }
